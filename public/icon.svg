@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'>
+  <rect width='512' height='512' fill='#141A21'/>
+  <rect x='8' y='8' width='496' height='4' fill='#0096A8'/>
+  <text x='256' y='290' font-family='monospace' font-size='160' font-weight='bold'
+    fill='#C4D4E4' text-anchor='middle'>TC</text>
+  <text x='256' y='380' font-family='monospace' font-size='60'
+    fill='#607080' text-anchor='middle' letter-spacing='12'>TECTRA</text>
+</svg>
