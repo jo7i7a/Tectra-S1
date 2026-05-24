@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
-  base: '/tectra/',
+  base: '/Tectra-S1/',
   plugins: [
     react(),
     VitePWA({
@@ -24,8 +24,8 @@ export default defineConfig({
         background_color: '#141A21',
         display: 'standalone',
         orientation: 'portrait',
-        start_url: '/tectra/',
-        scope: '/tectra/',
+        start_url: '/Tectra-S1/',
+        scope: '/Tectra-S1/',
         icons: [
           { src: 'icon.svg', sizes: 'any', type: 'image/svg+xml', purpose: 'any maskable' }
         ]
